@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **ReactJS, Python**
+🌱 I’m currently learning **ReactJS, Python**
 
 💬 Ask me about **Programming, CyberSecurity, CTF... or anything**
 
