@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Farid+Kusuma!;" />
 </h1>
 
-<h3 align="center">Web Developer | Cyber Security Enthusiast | Capture The Flag Player From Indonesian</h3>
+<h3 align="center">Web Developer | AI & Cyber Security Enthusiast | CTF Player</h3>
 
 <br/>
 
