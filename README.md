@@ -38,7 +38,6 @@ For me, security is not just an add-on — it’s something that should be consi
 * 🎓 **Student** at Kalimantan Institute of Technology
 * 🌱 Currently learning **DevSecOps, Cloud Infrastructure, and CI/CD**
 * 🔐 Exploring **Red Teaming, Vulnerability Assessment, and Security Automation**
-* ⚙️ Building learning projects with **React** and **Laravel**
 * 🤖 Growing my understanding of **AI, cloud-native systems, and system security**
 
 ---
