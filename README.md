@@ -115,7 +115,7 @@ For me, security is not just an add-on — it’s something that should be consi
 <div align="center">
 
 ```
-$ echo "always learning, always building." 
+$ echo "The more you know, the more you realize you don’t know." 
 // Hello World!! 🌏
 ```
 
