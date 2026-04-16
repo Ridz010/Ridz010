@@ -1,92 +1,123 @@
-<br clear="both">
+<div align="center">
 
-<h5 align="left">Hi 👋, I'm Farid<br><br>I'm a student at Kalimantan Institute of Technology (Institut Teknologi Kalimantan), based in Balikpapan, Indonesia.<br><br>I’m passionate about technology, cybersecurity, and software development, with a strong interest in building impactful digital solutions and continuously improving my technical skills.<br><br>🚀 About Me<br>🎓 Student at Kalimantan Institute of Technology<br>💻 Interested in Software Engineering, Cyber Security, and DevSecOps<br>🌱 I’m currently learning DevSecOps, Cloud Infrastructure, CI/CD Pipelines, Docker, Kubernetes, and Secure Software Development<br>🔐 Exploring Red Teaming, Vulnerability Assessment, and Security Automation<br>⚙️ Building projects with React, Laravel, and modern web technologies<br>📚 Always learning and growing in the field of AI, cloud, and system security</h5>
+```
+╔══════════════════════════════════════════════════════╗
+║  ~/Ridz010 $ whoami                                  ║
+╚══════════════════════════════════════════════════════╝
+```
 
-###
+</div>
+
+<br/>
+
+<img align="right" width="120" src="https://i.ibb.co.com/HDqgQ3dw/Loader-cat.gif" />
+
+## `> Farid Kusuma`
+
+**Student @ Kalimantan Institute of Technology · Balikpapan, ID**
+
+```yaml
+goal:       [Aspiring DevSecOps Engineer]
+currently:  [Learning Cloud Infrastructure, CI/CD, Containerization]
+exploring:  [Docker, Kubernetes, Linux, Security Automation]
+projects:   [Personal Web Applications, Security Labs, Learning Projects]
+mindset:    [Build, Learn, Secure, Repeat]
+```
+
+<br clear="right"/>
+
+---
+
+### `// about me`
+
+I'm a student who is deeply interested in **cybersecurity, cloud systems, and secure software development**.
+Currently, I’m on a journey to become a **DevSecOps Engineer**, learning how secure applications are built, deployed, and protected in modern cloud environments.
+
+For me, security is not just an add-on — it’s something that should be considered from the very beginning of the development process.
+
+* 🎓 **Student** at Kalimantan Institute of Technology
+* 🌱 Currently learning **DevSecOps, Cloud Infrastructure, and CI/CD**
+* 🔐 Exploring **Red Teaming, Vulnerability Assessment, and Security Automation**
+* ⚙️ Building learning projects with **React** and **Laravel**
+* 🤖 Growing my understanding of **AI, cloud-native systems, and system security**
+
+---
+
+### `// tech stack`
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=777BB4)
+![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-1a1a2e?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Django](https://img.shields.io/badge/Django-1a1a2e?style=flat-square&logo=django&logoColor=092E20)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Jenkins](https://img.shields.io/badge/Jenkins-1a1a2e?style=flat-square&logo=jenkins&logoColor=D24939)
+![Terraform](https://img.shields.io/badge/Terraform-1a1a2e?style=flat-square&logo=terraform&logoColor=7B42BC)
+![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=flat-square&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
+
+**Cloud & VCS**
+
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
+![GitLab](https://img.shields.io/badge/GitLab-1a1a2e?style=flat-square&logo=gitlab&logoColor=FC6D26)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-1a1a2e?style=flat-square&logo=bitbucket&logoColor=0052CC)
+
+---
+
+### `// github stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridz010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridz010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ridz010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=94a3b8&icon_color=06b6d4" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridz010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=94a3b8" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.ibb.co.com/HDqgQ3dw/Loader-cat.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/rdzx6_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/572622393596444673" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="r1dzx4698@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/farid-kusuma/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://gitlab.com/r1dzx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+### `// contribution graph`
 
 <img src="https://github.com/Ridz010/Ridz010/blob/output/github-contribution-grid-snake-dark.gif" alt="Snake animation" />
 
-###
+---
 
-<p align="left">Hello World!!</p>
+### `// connect`
 
-###
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farid_Kusuma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-kusuma/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ridz010-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/Ridz010)
+[![GitLab](https://img.shields.io/badge/GitLab-r1dzx-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/r1dzx)
+[![Instagram](https://img.shields.io/badge/Instagram-rdzx6__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rdzx6_/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/572622393596444673)
+[![Gmail](https://img.shields.io/badge/Gmail-r1dzx4698@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:r1dzx4698@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+$ echo "always learning, always building." 
+// Hello World!! 🌏
+```
+
+</div>
