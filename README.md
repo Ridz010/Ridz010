@@ -84,8 +84,11 @@ For me, security is not just an add-on — it’s something that should be consi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ridz010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=94a3b8&icon_color=06b6d4" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridz010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=94a3b8" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Ridz010&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ridz010&theme=dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ridz010&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 
 </div>
 
